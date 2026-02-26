@@ -1,0 +1,24 @@
+┌────────────┬───────────────┐
+│    name    │     type      │
+├────────────┼───────────────┤
+│ beedrill   │ bug,poison    │
+│ blastoise  │ water         │
+│ bulbasaur  │ grass,poison  │
+│ butterfree │ bug,flying    │
+│ caterpie   │ bug           │
+│ charizard  │ fire,flying   │
+│ charmander │ fire          │
+│ charmeleon │ fire          │
+│ ivysaur    │ grass,poison  │
+│ kakuna     │ bug,poison    │
+│ metapod    │ bug           │
+│ pidgeot    │ normal,flying │
+│ pidgeotto  │ normal,flying │
+│ pidgey     │ normal,flying │
+│ raticate   │ normal        │
+│ rattata    │ normal        │
+│ squirtle   │ water         │
+│ venusaur   │ grass,poison  │
+│ wartortle  │ water         │
+│ weedle     │ bug,poison    │
+└────────────┴───────────────┘
