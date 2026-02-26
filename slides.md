@@ -205,3 +205,4 @@ Write the rows of a query result into an archive, one file per row
 
 # Link to the code examples
 
+https://github.com/LeMikaelF/confoo-2026-sqlite
